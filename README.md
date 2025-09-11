@@ -27,16 +27,6 @@ Covered problems include:
 - Handling duplicates
 - Advanced case studies with multiple tables
 
-### 📖 Intro to Pandas (Explore Series)
-- Core Pandas concepts with small examples:
-  - Series vs DataFrame basics
-  - Indexing & slicing
-  - Filtering
-  - Aggregation
-  - Sorting
-  - Reshaping (`melt`, `pivot`)
-  - Merge & join examples
-
 ---
 
 ## 🧠 What I Learned
