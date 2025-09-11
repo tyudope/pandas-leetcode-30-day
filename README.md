@@ -1,34 +1,64 @@
-# 📅 30 Days of Pandas – Leetcode Practice
+# 📅 30 Days of Pandas – LeetCode Challenge
 
-This repository contains my solutions to **Leetcode’s 30 Days of Pandas** and the **Intro to Pandas** Explore series.
+This repository contains my solutions to **LeetCode’s 30 Days of Pandas** challenge and additional exercises from the **Intro to Pandas Explore series**.  
 
-🎯 **Purpose**:  
-To improve my **data wrangling skills using Pandas**, build strong foundations for **Data Science & ML**, and maintain an organized **review resource**.
+🎯 **Goal**:  
+Strengthen my **data wrangling and analysis skills** with Pandas, build a solid foundation for **Data Science & Machine Learning**, and keep a well-documented resource for future review and interview prep.
 
 ---
 
-## 📚 Contents
+## 📚 Repository Structure
 
-### ✅ 30 Days of Pandas
-- Daily notebooks organized by `Day01`, `Day02`, ..., `Day30`
-- Each includes:
-  - Problem description (brief)
-  - My Pandas solution
-  - Explanations where needed
+### 📖 30 Days of Pandas
+- Organized by topic and day (`Day01`, `Day02`, ..., `Day30+`)
+- Each notebook includes:
+  - 📌 Problem statement (short version)
+  - 🐼 Pandas solution
+  - ✍️ Markdown explanations
+  - ✅ Example inputs/outputs
 
-### ✅ Intro to Pandas (Explore Series)
-- Core Pandas concepts like:
-  - Series vs DataFrames
+Covered problems include:
+- Filtering & transformations
+- String operations
+- Aggregations
+- GroupBy usage
+- Joins/Merges
+- Ranking & sorting
+- Handling duplicates
+- Advanced case studies with multiple tables
+
+### 📖 Intro to Pandas (Explore Series)
+- Core Pandas concepts with small examples:
+  - Series vs DataFrame basics
+  - Indexing & slicing
   - Filtering
   - Aggregation
   - Sorting
+  - Reshaping (`melt`, `pivot`)
+  - Merge & join examples
 
 ---
 
-## 💻 Environment
-- Python 3.x
-- Pandas
-- Jupyter Notebooks
+## 🧠 What I Learned
+- Writing **clean Pandas one-liners** for SQL-style problems  
+- Using `groupby + agg`, `rank`, `melt`, `merge`, `fillna`, etc. effectively  
+- How SQL queries map to Pandas workflows  
+- Handling **edge cases** (zero counts, null values, duplicates)  
+- Writing clear **Markdown explanations** alongside solutions  
+
+---
+
+## 💻 Tech Stack
+- **Python 3.x**
+- **Pandas**
+- **Jupyter Notebooks**
+
+---
+
+## 📈 Status
+✅ All 30 Days of Pandas problems solved  
+✅ Detailed Markdown explanations included  
+✅ Repository structured & ready for review  
 
 ---
 
